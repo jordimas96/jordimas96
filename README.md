@@ -1,6 +1,6 @@
 <!-- ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
-### <h1>[#c5f015][Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
+### <h1>![#c5f015][Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
 
 <!--
 **jordimas96/jordimas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
