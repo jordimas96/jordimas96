@@ -1,6 +1,7 @@
 <!-- ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
-<h1>Visit my website at <h2>[jordimas96.github.io](https://jordimas96.github.io/)</h2></h1>
+Visit my website at <br>
+[jordimas96.github.io](https://jordimas96.github.io/)
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
