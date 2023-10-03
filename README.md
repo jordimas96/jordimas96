@@ -3,6 +3,8 @@
 ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1>
 
 
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 <!--
 **jordimas96/jordimas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
