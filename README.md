@@ -1,7 +1,6 @@
 <!-- ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
-<p align="center">
-  ### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
-</p>
+
+### <h1 align="center">[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
 
 
 <!--
