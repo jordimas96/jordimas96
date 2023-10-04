@@ -3,6 +3,8 @@
 ### <h1 align="center" style="color:#beff00">[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
 
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
 <!--
 **jordimas96/jordimas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
