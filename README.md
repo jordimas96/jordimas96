@@ -3,11 +3,6 @@
 ### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordimas96&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordimas96&layout=compact&theme=dark)
-
-
-
 <!--
 **jordimas96/jordimas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
