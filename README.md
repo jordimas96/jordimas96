@@ -2,15 +2,18 @@
 
 <!-- ### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
+<div align="center">
 
-<a href="https://jordimas96.github.io/">
-  <img src="https://jordimas96.github.io/jordimas96/logos/web.png" width="300">
-</a>
-<br>
+  <a href="https://jordimas96.github.io/">
+    <img src="https://jordimas96.github.io/jordimas96/logos/web.png" width="300">
+  </a>
+  <br>
+  
+  <a href="https://jordimas96.github.io/bunquer-descarregador/">
+    <img src="https://jordimas96.github.io/jordimas96/logos/bunquer.png" width="300">
+  </a>
 
-<a href="https://jordimas96.github.io/bunquer-descarregador/">
-  <img src="https://jordimas96.github.io/jordimas96/logos/bunquer.png" width="300">
-</a>
+</div
 
 
 
