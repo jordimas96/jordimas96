@@ -1,6 +1,11 @@
 <!-- ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
-### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1>
+<!-- ### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
+
+
+[![El búnquer](https://jordimas96.github.io/jordimas96/logos/web.png)](https://jordimas96.github.io/)
+
+[![El búnquer](https://jordimas96.github.io/jordimas96/logos/bunquer.png)](https://jordimas96.github.io/bunquer-descarregador/)
 
 
 <!--
