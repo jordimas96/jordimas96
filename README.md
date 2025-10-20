@@ -5,12 +5,19 @@
 <div align="center">
 
   <a href="https://jordimas96.github.io/">
-    <img src="https://jordimas96.github.io/jordimas96/logos/web.png" width="300">
+    <img src="https://jordimas96.github.io/jordimas96/logos/portfolio.png" width="300">
   </a>
+  
   <br>
   
   <a href="https://jordimas96.github.io/bunquer-descarregador/">
     <img src="https://jordimas96.github.io/jordimas96/logos/bunquer.png" width="300">
+  </a>
+
+  <br>
+  
+  <a href="https://jordimas96.github.io/r/play-store">
+    <img src="https://jordimas96.github.io/jordimas96/logos/apps.png" width="300">
   </a>
 
 </div
