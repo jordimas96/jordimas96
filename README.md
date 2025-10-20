@@ -8,13 +8,13 @@
     <img src="https://jordimas96.github.io/jordimas96/logos/portfolio.png" width="300">
   </a>
   
-  <sub></sub>
+  <br>
   
   <a href="https://jordimas96.github.io/bunquer-descarregador/">
     <img src="https://jordimas96.github.io/jordimas96/logos/bunquer.png" width="300">
   </a>
 
-  <sub></sub>
+  <br>
   
   <a href="https://jordimas96.github.io/r/play-store">
     <img src="https://jordimas96.github.io/jordimas96/logos/apps.png" width="300">
