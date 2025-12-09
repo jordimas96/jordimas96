@@ -16,6 +16,12 @@
 
   <br>
   
+  <a href="https://jordimas96.github.io/mad-jumpgate/">
+    <img src="https://jordimas96.github.io/jordimas96/logos/mad-jumpgate.png" width="300">
+  </a>
+
+  <br>
+  
   <a href="https://jordimas96.github.io/android">
     <img src="https://jordimas96.github.io/jordimas96/logos/apps.png" width="300">
   </a>
