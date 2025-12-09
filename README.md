@@ -17,7 +17,7 @@ My full portfolio is available here, where everything is centralized:
 projects, experience, info about me, contact info, and my complete CV.
 
 <a href="https://jordimas96.github.io/">
-  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/portfolio.png" width="200">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/portfolio.png" width="250">
 </a>
 
 ---
@@ -28,7 +28,7 @@ Tool that makes it easy to download all episodes of *El Búnquer* from Catalunya
 This website does **not** host any files.
 
 <a href="https://jordimas96.github.io/bunquer-descarregador/">
-  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/bunquer.png" width="200">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/bunquer.png" width="250">
 </a>
 
 ---
@@ -38,7 +38,7 @@ This website does **not** host any files.
 PC First Person Shooter developed in two weeks using Unity. Includes player and camera movement from scratch, weapon mechanics, enemy AI, spawn logic, 5 levels, 4 weapon types, healing items, armor, grenades, traps, damage markers, explosions and dynamic atmosphere/music.
 
 <a href="https://jordimas96.github.io/mad-jumpgate/">
-  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/mad-jumpgate.png" width="200">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/mad-jumpgate.png" width="250">
 </a>
 
 ---
@@ -50,7 +50,7 @@ I follow Material Design principles — recently Material You — with dynamic M
 Several of my apps have attracted purchase offers for my developer account (up to 5 so far).
 
 <a href="https://jordimas96.github.io/android">
-  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/my-apps.png" width="200">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/my-apps.png" width="250">
 </a>
 
 ---
@@ -59,7 +59,7 @@ Several of my apps have attracted purchase offers for my developer account (up t
 You can also view my complete CV directly here.
 
 <a href="https://jordimas96.github.io/cv">
-  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/cv.png" width="200">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/cv.png" width="250">
 </a>
 
 
