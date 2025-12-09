@@ -1,6 +1,6 @@
-<!-- ### <h1>Visit my website at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
+<!-- ### <h1>Visit my portfolio at [jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
-<!-- ### <h1>[Visit my website at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
+<!-- ### <h1>[Visit my portfolio at<br>jordimas96.github.io](https://jordimas96.github.io/)</h1> -->
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
   <br>
   
-  <a href="https://jordimas96.github.io/r/play-store">
+  <a href="https://jordimas96.github.io/android">
     <img src="https://jordimas96.github.io/jordimas96/logos/apps.png" width="300">
   </a>
 
