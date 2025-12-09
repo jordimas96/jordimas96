@@ -33,13 +33,12 @@
             align-items: stretch;
             gap: 7px;
             margin: auto;
-            
-            width: 300px;
-
-            margin-top: 108px;
         }
         .botons .boto {
             font-size: 54px;
+            width: 300px;
+            height: 97px;
+            border-radius: 26px;
 
             display: flex;
             justify-content: center;
@@ -47,13 +46,9 @@
             gap: 1rem;
 
             text-decoration: none;
-            /* padding: 1rem; */
-            border-radius: 1.6rem;
             
-            background-color: #404040;
             color: white;
-
-            height: 97px;
+            background-color: #444;
         }
 
         .boto.portfolio {
@@ -73,25 +68,15 @@
         .boto.my-apps {
             background-color: #3ddb86;
             color: black;
+            font-size: 50px;
         }
-
-        .boto.jugar {
-            background-color: #404040;
+        .boto.cv {
+            background-color: white;
+            color: black;
+            font-size: 50px;
         }
-        .boto.itch {
-            background-color: #fa5c5c;
-            
-        }
-        .boto.windows {
-            background-color: #0cb3ee;
-            
-        }
-        .boto.youtube {
-            background-color: #ff0000;
-            
-        }
-        .boto.info {
-            padding: 1rem 2rem;
+        .boto.cv img {
+            height: 50px;
         }
 
 
@@ -127,6 +112,10 @@
             <a class="boto boing my-apps" href="https://jordimas96.github.io/android">
                 My apps
             </a>
+            <a class="boto boing cv" href="https://jordimas96.github.io/cv">
+                <img src="cv.png">
+                Resume
+            </a>
             
         </div>
 
@@ -137,6 +126,7 @@
         <button onclick="print('bunquer')">bunquer</button>
         <button onclick="print('mad-jumpgate')">mad-jumpgate</button>
         <button onclick="print('my-apps')">my-apps</button>
+        <button onclick="print('cv')">Resume</button>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
