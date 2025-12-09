@@ -1,0 +1,158 @@
+<!--                  Jordi Mas Parramon                 -->
+<!--            https://github.com/jordimas96            -->
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <title>Jordi Mas Parramon</title>
+    <meta name="author" content="Jordi Mas Parramon">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <style>
+        * { box-sizing: border-box; }
+        html {
+            height: 100%;
+            color-scheme: light dark;
+        }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+
+            height: 100%;
+            margin: 0;
+        }
+        section {
+            height: 95%;
+            display: flex;
+
+        }
+        .botons {
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            gap: 7px;
+            margin: auto;
+            
+            width: 300px;
+
+            margin-top: 108px;
+        }
+        .botons .boto {
+            font-size: 54px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+
+            text-decoration: none;
+            /* padding: 1rem; */
+            border-radius: 1.6rem;
+            
+            background-color: #404040;
+            color: white;
+
+            height: 97px;
+        }
+
+        .boto.portfolio {
+            background: linear-gradient(to top right, #071e7c, #79014d);
+        }
+        .boto.bunquer {
+            background-color: #661a15;
+        }
+        .boto.bunquer img {
+            height: 98px;
+        }
+        .boto.mad-jumpgate {
+            background: linear-gradient(to top right, #acb800, #efff00);
+            color: black;
+            font-size: 35px;
+        }
+        .boto.my-apps {
+            background-color: #3ddb86;
+            color: black;
+        }
+
+        .boto.jugar {
+            background-color: #404040;
+        }
+        .boto.itch {
+            background-color: #fa5c5c;
+            
+        }
+        .boto.windows {
+            background-color: #0cb3ee;
+            
+        }
+        .boto.youtube {
+            background-color: #ff0000;
+            
+        }
+        .boto.info {
+            padding: 1rem 2rem;
+        }
+
+
+        .boing {
+            cursor: pointer;
+
+            transform-origin: center;
+            transform: scale(1);
+            transition: transform 0.1s, border-radius 0.3s;
+
+            &:active {
+                transform: scale(0.9);
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <section>
+
+        <div class="botons">
+
+            
+            <a class="boto boing portfolio" href="https://jordimas96.github.io/">
+                Portfolio
+            </a>
+            <a class="boto boing bunquer" href="https://jordimas96.github.io/bunquer-descarregador">
+                <img src="bunquer.png">
+            </a>
+            <a class="boto boing mad-jumpgate" href="https://jordimas96.github.io/mad-jumpgate">
+                Mad Jumpgate
+            </a>
+            <a class="boto boing my-apps" href="https://jordimas96.github.io/android">
+                My apps
+            </a>
+            
+        </div>
+
+    </section>
+
+    <footer>
+        <button onclick="print('portfolio')">portfolio</button>
+        <button onclick="print('bunquer')">bunquer</button>
+        <button onclick="print('mad-jumpgate')">mad-jumpgate</button>
+        <button onclick="print('my-apps')">my-apps</button>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script>
+
+        function print(nom) {
+
+            const element = document.querySelector("." + nom);
+            html2canvas(element, { backgroundColor: null }).then(canvas => {
+                const link = document.createElement('a');
+                link.download = nom + '.png';
+                link.href = canvas.toDataURL();
+                link.click();
+            });
+
+        }
+    </script>
+</body>
+</html>
