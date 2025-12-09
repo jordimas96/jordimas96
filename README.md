@@ -58,7 +58,9 @@ Several of my apps have attracted purchase offers for my developer account (up t
 ## 📄 Curriculum Vitae
 You can also view my complete CV directly here.
 
-
+<a href="https://jordimas96.github.io/cv">
+  <img src="https://jordimas96.github.io/jordimas96/imgs-botons/cv.png" width="300">
+</a>
 
 
 
