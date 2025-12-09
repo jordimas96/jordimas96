@@ -20,7 +20,7 @@
     <img src="https://jordimas96.github.io/jordimas96/logos/apps.png" width="300">
   </a>
 
-</div
+</div>
 
 
 
